@@ -6,8 +6,8 @@ export function App() {
   return (
     <>
       <ThemeProvider theme={defaultTheme}>
-        <GlobalStyles theme={undefined} />
-        <div>Inicio do Projeto</div>
+        <GlobalStyles />
+        <div>testando git e vercel</div>
       </ThemeProvider>
     </>
   );

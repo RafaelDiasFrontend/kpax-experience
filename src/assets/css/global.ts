@@ -1,7 +1,7 @@
 import { createGlobalStyle } from "styled-components";
 
 interface GlobalStylesProps {
-  theme: any;
+  //
 }
 
 export const GlobalStyles = createGlobalStyle<GlobalStylesProps>`
